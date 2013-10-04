@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Telepathy", "Telepathy.vcproj", "{888837C0-9F38-4B41-8487-539F37FA2E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{888837C0-9F38-4B41-8487-539F37FA2E70}.Debug|Win32.ActiveCfg = Debug|Win32
+		{888837C0-9F38-4B41-8487-539F37FA2E70}.Debug|Win32.Build.0 = Debug|Win32
+		{888837C0-9F38-4B41-8487-539F37FA2E70}.Release|Win32.ActiveCfg = Release|Win32
+		{888837C0-9F38-4B41-8487-539F37FA2E70}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
